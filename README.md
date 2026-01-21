@@ -1,3 +1,6 @@
+![LiterAlura – Biblioteca Digital](images/literAlura.png)
+
+
 📚 LiterAlura
 
 Aplicación de consola desarrollada en Java con Spring Boot que permite buscar, visualizar y guardar libros utilizando la API pública Gutendex (Proyecto Gutenberg), con persistencia local mediante JPA/Hibernate.
