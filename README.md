@@ -85,3 +85,5 @@ diseño orientado al usuario
 reutilización de lógica
 
 claridad en la interacción por consola
+
+
